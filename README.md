@@ -4,7 +4,7 @@
 
 I’m a Flutter Developer with over 2 years of commercial experience in mobile applications, and I also have experience building web applications with Angular.
 
-In my daily work I integrate REST APIs, analyze request/response flows and manually verify implemented features. I also have some basic knowledge of E2E test automation with Cypress.
+In my daily work, I develop user interfaces based on design projects, integrate REST APIs, analyze request/response flows, and manually verify implemented features. I also have some basic knowledge of E2E test automation with Cypress.
 
 
 🎓 **Master's degree** in Computer Science from Pedagogical University in Kraków
@@ -40,4 +40,6 @@ In my daily work I integrate REST APIs, analyze request/response flows and manua
 - **Problem Solver**: Systematic approach to debugging and optimization
 - **Continuous Learner**: 
 
-## More info at scafley.github.io
+## More info at 
+
+scafley.github.io
