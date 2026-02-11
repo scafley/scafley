@@ -40,3 +40,4 @@ In my daily work I integrate REST APIs, analyze request/response flows and manua
 - **Problem Solver**: Systematic approach to debugging and optimization
 - **Continuous Learner**: 
 
+## More info at scafley.github.io
