@@ -2,18 +2,21 @@
 
 ## 💼 About Me
 
-I'm a **Flutter Developer** with over 2 years of commercial experience, specializing in building mobile and web applications (Flutter and Angular). 
+I’m a Flutter Developer with over 2 years of commercial experience in mobile applications, and I also have experience building web applications with Angular.
+
+In my daily work I integrate REST APIs, analyze request/response flows and manually verify implemented features. I also have some basic knowledge of E2E test automation with Cypress.
+
 
 🎓 **Master's degree** in Computer Science from Pedagogical University in Kraków
 
 📍 Based in **Krakow, Poland**
 
 ## 🛠️ Tech Stack
-TODO
 
 **Languages & Frameworks:**
 - Dart & Flutter (Mobile & Web)
 - TypeScript & Angular (Web)
+- Basic E2E testing with Cypress
 
 **Tools & Practices:**
 - Git & GitHub
@@ -23,9 +26,12 @@ TODO
 - Responsive design
 - Cross-platform deployment
 
+**Testing & QA:**
+- Manual testing of web and mobile applications
+- API verification with Postman (status codes, JSON analysis)
+- Chrome DevTools (Network & Console debugging)
 
-## 📊 Notable Projects
-TODO
+
 
 ## 🌟 What Sets Me Apart
 
@@ -34,4 +40,3 @@ TODO
 - **Problem Solver**: Systematic approach to debugging and optimization
 - **Continuous Learner**: 
 
-## 📫 Let's Connect
