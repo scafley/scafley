@@ -16,6 +16,7 @@ In my daily work, I develop user interfaces based on design projects, integrate 
 **Languages & Frameworks:**
 - Dart & Flutter (Mobile & Web)
 - TypeScript & Angular (Web)
+- Basic .NET EF Core API (Backend)
 - Basic E2E testing with Cypress
 
 **Tools & Practices:**
@@ -30,15 +31,14 @@ In my daily work, I develop user interfaces based on design projects, integrate 
 - Manual testing of web and mobile applications
 - API verification with Postman (status codes, JSON analysis)
 - Chrome DevTools (Network & Console debugging)
+- Basic E2E testing with Cypress
 
 
+- **Commercial Experience**: 2+ years building and maintaining mobile apps published on the App Store and Google Play (and even more in HTML/Angular)
+- **Attention to Detail**: strong focus on UI/UX and clean implementations
+- **Problem Solver**: systematic approach to debugging and optimization
+- **Continuous Learner**: actively expanding from mobile into backend and full stack development
 
-## 🌟 What Sets Me Apart
-
-- **Production Experience**: Built and maintained apps serving thousands of active users
-- **Attention to Detail**: Strong focus on UI/UX and pixel-perfect implementations
-- **Problem Solver**: Systematic approach to debugging and optimization
-- **Continuous Learner**: 
 
 ## More info at 
 
