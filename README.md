@@ -26,7 +26,7 @@ In my daily work, I develop user interfaces based on design projects, integrate 
 - Flutter Code generation (riverpod_annotation, build_runner, freezed, json_serializable)
 - Responsive design
 - Cross-platform deployment
-- RxJS
+- RxJS, PrimeNG, MaterialUI
 
 **Testing & QA:**
 - Manual testing of web and mobile applications
