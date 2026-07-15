@@ -1,8 +1,8 @@
 # Hi there, I'm Dominik 👋
 
-## 💼 About Me
+##  About Me
 
-I’m a Flutter Developer with over 2 years of commercial experience in mobile applications, and I also have experience building web applications with Angular.
+Frontend/mobile developer with **5 years in IT** and **2+ years of commercial experience** shipping cross-platform apps — primarily **Flutter/Dart** (mobile & web) and **Angular** (TypeScript). I build UIs from designs, integrate REST APIs, reason about request/response flows, and care about clean, well-tested implementations.
 
 In my daily work, I develop user interfaces based on design projects, integrate REST APIs, analyze request/response flows, and manually verify implemented features. I also have some basic knowledge of E2E test automation with Cypress.
 
