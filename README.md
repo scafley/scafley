@@ -16,6 +16,7 @@ In my daily work, I develop user interfaces based on design projects, integrate 
 **Languages & Frameworks:**
 - Dart & Flutter (Mobile & Web)
 - TypeScript & Angular (Web)
+- Vue basics (prior Vuex experience) · exploring Nuxt
 - Basic .NET EF Core API (Backend)
 - Basic E2E testing with Cypress
 
