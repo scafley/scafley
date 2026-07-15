@@ -22,15 +22,15 @@ In my daily work, I develop user interfaces based on design projects, integrate 
 **Tools & Practices:**
 - Git & GitHub
 - Figma/Photoshop
-- Code generation (riverpod_annotation, build_runner, freezed, json_serializable)
-- go_router navigation
+- Flutter Code generation (riverpod_annotation, build_runner, freezed, json_serializable)
 - Responsive design
 - Cross-platform deployment
+- RxJS
 
 **Testing & QA:**
 - Manual testing of web and mobile applications
 - API verification with Postman (status codes, JSON analysis)
-- Chrome DevTools (Network & Console debugging)
+- Chrome DevTools (Lighthouse, Network & Console debugging)
 - Basic E2E testing with Cypress
 
 
